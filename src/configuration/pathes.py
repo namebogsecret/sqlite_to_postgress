@@ -1,2 +1,2 @@
 
-DB_PATH = "/Volumes/Untitled/migrate/files/repetitors_.db"
+DB_PATH = "/Volumes/Untitled/migrate/files/repetitors.db"
